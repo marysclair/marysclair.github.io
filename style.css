@@ -134,8 +134,8 @@ h1{
 
     color:#C70039;
     /* text-shadow: 2px 2px ivory; */
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #1C1C1C;
+    /* -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #1C1C1C; */
     font-size: 6.6rem;
     top: 50%;
     left: 50%;
@@ -197,7 +197,7 @@ h1:hover {
     flex-direction: row;
     height: 25vh;
     width: 60vw;
-    background: linear-gradient(180deg, rgba(144,12,63,1) 0%, rgba(88,24,69,1) 100%);
+    /* background: linear-gradient(180deg, rgba(144,12,63,1) 0%, rgba(88,24,69,1) 100%); */
     color: #C70039;
     margin-bottom: 6%;
     border-radius: 10px;
@@ -205,8 +205,8 @@ h1:hover {
 }
 .projeto:hover{
     transition-duration: 0.3s;
-    height: 27vh;
-    width: 62vw;
+    height: 26vh;
+    width: 61vw;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .imagem-projeto{
